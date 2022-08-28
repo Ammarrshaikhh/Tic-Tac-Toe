@@ -1,2 +1,2 @@
 # Tic Tac Toe
- Tic-TacToe game built with using Javascript, HTML, CSS
+ Tic-Tac-Toe game built with using Javascript, HTML, CSS
