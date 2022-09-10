@@ -1,5 +1,10 @@
+.content{
+    
+    text-align: center;
+    font-size: 13px;
+    font-family: Courier;
+}
 .cell{
-
     width: 75px;
     height: 75px;
     border: 2px solid;
@@ -7,11 +12,27 @@
     line-height: 75px;
     font-size: 50px;
     cursor: pointer;
+     font-family: Courier;
+    font-size: 40px;
+    font-weight: 400;
 }
 
+h1{
+    font-family: Courier;
+    font-size: 40px;
+    font-weight: 400;
+    background-color: #1E90FF;
+}
+h3{
+    font-family: Courier;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #1E90FF;
+}
 #gameContainer{
-    font-family: "permanent Marker";
     text-align: center;
+    font-family: Courier;
+    font-size: 15px;
 
 }
 
